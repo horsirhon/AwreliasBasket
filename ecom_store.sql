@@ -516,7 +516,7 @@ INSERT INTO `products` (`product_id`, `p_cat_id`, `cat_id`, `manufacturer_id`, `
 
 														Grilled Fish
 </p>' , '<p>Breakfast Tray</p>', '', 'Breakfast', 'Gift', 'product'),
-(4, 5, 2, 2, '2017-02-19 06:49:39', 'Champagne Breakfast Tray', 'champagne-product-url', 'img7.jpg', 'img8.jpg', 'img9.jpg', 85000,85000, 'Crepes or Pancake or Waffles
+(4, 4, 2, 2, '2017-02-19 06:49:39', 'Champagne Breakfast Tray', 'champagne-product-url', 'img7.jpg', 'img8.jpg', 'img9.jpg', 85000,85000, 'Crepes or Pancake or Waffles
 												<br />
 
 												Cereal or Pastry Bowl with Butter/Jam
@@ -754,7 +754,7 @@ INSERT INTO `products` (`product_id`, `p_cat_id`, `cat_id`, `manufacturer_id`, `
 
                                             <br /> A Bottle of Water
 
-                                            <br /> A Box Of Chocolate </p>' , '<p>Lunch Tray</p>', '', 'Lunch', 'Gift', 'product'),                                       (10, 5, 2, 2, '2020-02-19 06:49:18', 'Sea Delight Lunch Tray', 'seadelight-product-url', 'img18.jpg', 'img6.jpg', 'img15.jpg', 95000,95000, '<p> Salmon Fish
+                                            <br /> A Box Of Chocolate </p>' , '<p>Lunch Tray</p>', '', 'Lunch', 'Gift', 'product'),                                       (11, 5, 2, 2, '2020-02-19 06:49:18', 'Sea Delight Lunch Tray', 'seadelight-product-url', 'img18.jpg', 'img6.jpg', 'img15.jpg', 95000,95000, '<p> Salmon Fish
                                             <br /> Shrimp Salad
 
                                             <br /> Honey Glazed Carrot and Asparagus with Lemon Calamari
