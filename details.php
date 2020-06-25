@@ -358,9 +358,9 @@ echo "
 
 <p class='price'>
 
-Product Price : <del> $$pro_price </del><br>
+Product Price : <del> &#8358 $pro_price </del><br>
 
-Product sale Price : $$pro_psp_price
+Product sale Price : &#8358 $pro_psp_price
 
 </p>
 
@@ -373,7 +373,7 @@ echo "
 
 <p class='price'>
 
-Product Price : $$pro_price
+Product Price : &#8358 $pro_price
 
 </p>
 
@@ -391,9 +391,9 @@ echo "
 
 <p class='price'>
 
-Bundle Price : <del> $$pro_price </del><br>
+Bundle Price : <del> &#8358 $pro_price </del><br>
 
-Bundle sale Price : $$pro_psp_price
+Bundle sale Price : &#8358 $pro_psp_price
 
 </p>
 
@@ -406,7 +406,7 @@ echo "
 
 <p class='price'>
 
-Bundle Price : $$pro_price
+Bundle Price : &#8358 $pro_price
 
 </p>
 

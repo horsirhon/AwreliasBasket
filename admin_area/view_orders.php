@@ -158,7 +158,7 @@ echo $order_date;
 ?>
 </td>
 
-<td>$<?php echo $due_amount; ?></td>
+<td> &#8358 <?php echo $due_amount; ?></td>
 
 <td>
 <?php
